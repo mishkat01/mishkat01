@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mishkatul Islam
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Laravel vue
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN stack 
 - 📫 https://www.linkedin.com/in/mishkatul-islam-b528b3216/
 
 <!---
