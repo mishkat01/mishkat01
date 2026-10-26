@@ -1,7 +1,6 @@
-- 👋 Hi, I’m mishkatul Islam
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning MERN stack 
-- 📫 https://www.linkedin.com/in/mishkatul-islam-b528b3216/
+I'm a backend developer passionate about building scalable web applications, REST APIs, and reliable backend systems. I also work in technical support, debugging issues, and maintaining live production applications.
+
+
 
 <!---
 mishkat01/mishkat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
